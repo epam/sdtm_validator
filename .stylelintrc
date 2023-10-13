@@ -1,0 +1,15 @@
+{
+  "customSyntax": "@stylelint/postcss-css-in-js",
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-rational-order",
+    "stylelint-config-prettier"
+  ],
+  "plugins": [],
+  "rules": {
+    "no-empty-source": null,
+    "value-keyword-case": null,
+    "function-no-unknown": null,
+    "selector-class-pattern": null
+  }
+}
