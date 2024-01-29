@@ -1,4 +1,14 @@
-# Documentation
+**CDISC Wrapper**, an open source desktop application, aiming to empower users in managing validation rules effortlessly and therefore prepare clinical studies for submission to regulatory agencies seamlessly and with confidence. 
+
+It provides a user-friendly interface to open source [CDISC Conformance Rules](https://www.cdisc.org/core) therefore following the industry best practices in all data exchange scenarios.
+
+It supports macOS and Windows operating systems. 
+
+![Slide1](https://github.com/epam/cdisc_validator/assets/94456277/e043cdca-7624-439e-a57b-07615d47a6c4)
+
+**Learn more about CDISC Wrapper** by reading [our product sheet](https://github.com/epam/cdisc_validator/files/14088067/CDISC_Wrapper_Brochure.pdf) or watching this [recording](https://epam.sharepoint.com/:v:/r/sites/EPAMCDISCMicrosoft-CORE/Shared%20Documents/General/For%20DEMO/Demo_video.mp4?csf=1&web=1&e=JaSh7z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
+
+## Project Overview
 
 **Product Name:** epam-cdisc-electron
 
@@ -8,34 +18,28 @@
 
 **Phase:** preMVP
 
-- [Documentation](#documentation)
-  - [Overview](#overview)
-  - [Getting started](#getting-started)
-    - [Installation](#installation)
-    - [CDISC Rules Engine](#cdisc-rules-engine)
-    - [Development](#development)
-    - [Production](#production)
-  - [Technologies](#technologies)
-  - [Application architecture](#application-architecture)
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+  - [CDISC Rules Engine](#cdisc-rules-engine)
+  - [Development](#development)
+  - [Production](#production)
+- [Technologies](#technologies)
+- [Application architecture](#application-architecture)
   - [Application structure](#application-structure)
-    - [Modules overview](#modules-overview)
-    - [Folder structure](#folder-structure)
-  - [Modules](#modules)
-    - [Common](#common)
-    - [Renderer](#renderer)
-    - [Main](#main)
-    - [Resources](#resources)
-  - [Application's files and logs](#applications-files-and-logs)
-  - [Packaging and distributions](#packaging-and-distributions)
+   - [Modules overview](#modules-overview)
+   - [Folder structure](#folder-structure)
+- [Modules](#modules)
+   - [Common](#common)
+   - [Renderer](#renderer)
+   - [Main](#main)
+   - [Resources](#resources)
+- [Application's files and logs](#applications-files-and-logs)
+- [Packaging and distributions](#packaging-and-distributions)
     - [Packaging](#packaging)
     - [Distributions](#distributions)
-  - [Code sign and notarizing](#code-sign-and-notarizing)
+- [Code sign and notarizing](#code-sign-and-notarizing)
     - [Windows](#windows)
     - [MacOS](#macos)
-
-## Overview
-
-epam-cdisc-electron is the native application for validating datasets against rules. Supported OS are macOS and Windows
 
 ## Getting started
 
