@@ -1,12 +1,11 @@
-**CDISC Wrapper**, an open source desktop application, aiming to empower users in managing validation rules effortlessly and therefore prepare clinical studies for submission to regulatory agencies seamlessly and with confidence. 
+**SDTM Validation Tool by EPAM** is an open-source desktop application, aiming to empower users in applying [CDISC Conformance Rules](https://www.cdisc.org/core) effortlessly and therefore prepare clinical studies for submission to regulatory agencies seamlessly and with confidence. 
 
-It provides a user-friendly interface to open source [CDISC Conformance Rules](https://www.cdisc.org/core) therefore following the industry best practices in all data exchange scenarios.
+It provides a user-friendly interface to the open-source CORE Engine by CDISC therefore following the industry best practices in all data exchange scenarios.
 
 It supports macOS and Windows operating systems. 
+![SDTM_Validation_Tool](https://github.com/epam/cdisc_validator/assets/94456277/f4b29a0f-5255-4b05-9463-7a186de24244)
 
-![Slide1](https://github.com/epam/cdisc_validator/assets/94456277/e043cdca-7624-439e-a57b-07615d47a6c4)
-
-**Learn more about CDISC Wrapper** by reading [our product sheet](https://github.com/epam/cdisc_validator/files/14088067/CDISC_Wrapper_Brochure.pdf) or watching this [recording](https://epam.sharepoint.com/:v:/r/sites/EPAMCDISCMicrosoft-CORE/Shared%20Documents/General/For%20DEMO/Demo_video.mp4?csf=1&web=1&e=JaSh7z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
+**Learn more about SDTM Validation Tool** by reading [our product sheet](https://github.com/epam/cdisc_validator/files/14100042/SDTM.Validation.Tool.by.EPAM_brochure.pdf) or watching this [recording](https://epam.sharepoint.com/:v:/r/sites/EPAMCDISCMicrosoft-CORE/Shared%20Documents/General/For%20DEMO/Demo_video.mp4?csf=1&web=1&e=JaSh7z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
 
 ## Project Overview
 
