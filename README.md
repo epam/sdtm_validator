@@ -9,7 +9,7 @@ It supports macOS and Windows operating systems.
 
 ## Project Overview
 
-**Product Name:** epam-cdisc-electron
+**Product Name:** epam-sdtm-validator
 
 **Version:** 0.6.0
 
