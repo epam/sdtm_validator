@@ -54,7 +54,7 @@
     "copyfiles": "^2.4.1",
     "css-loader": "^6.7.1",
     "del-cli": "^5.0.0",
-    "electron": "^21.1.0",
+    "electron": "^22.3.25",
     "electron-icon-builder": "^2.0.1",
     "electronmon": "^2.0.2",
     "env-cmd": "^10.1.0",
